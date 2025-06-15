@@ -1,8 +1,10 @@
 ---
 title: Welcome to The Portfolio
 date: 2025-06-15 12:00:00 +700
-categories: [gibberish]
-tags: [videogames,gameart,digitaltart]
+categories: [Gibberish]
+tags: [video games, game art, digital art]
+description: Read this to read my CV and my desire 🤪
+image: assets/img/profile/dogme_preview.png
 ---
 
 ## Introduction 👋

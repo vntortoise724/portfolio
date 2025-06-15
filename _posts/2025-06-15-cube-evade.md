@@ -1,8 +1,9 @@
 ---
 title: Cube Evade Game 🍆 🔴 🟨
 date: 2025-06-15 12:30:00 +700
-categories: [gameshowcase]
-tags: [videogames,unity]
+categories: [Game, Showcase]
+tags: [video games,unity]
+description: My First 3D Game on Unity
 ---
 
 ## Introduction
