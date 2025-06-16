@@ -24,4 +24,40 @@ _School View_
 
 The prototype contains two scenes for House and School. It is developed using **Unity** and the graphic is made using **Asesprite** (for pixel art and animation) and **Photoshop** (for UI elements, illustration and dialogue character poitrait).
 
+![School Sprites](/assets/img/KA/KA-ModelSchool.png)
+_School Sprite Models_
+
 ![KA Boy Idle](/assets/media/KA_Main-Idle.gif)
+_Main character idle animation_
+
+## How to play 🎮
+The game has the quite simple control:
+- Hold **A - D** to move the character **left - right**
+- Click **E** to interact with objects and NPCs 
+- When dialogue is triggered, you can use **A - D** then **Enter** to choose and select your desire dialogue options, or use **mouse cursor** to click on them.
+- For trivia quizzes, they have the same control like dialogue, and you can also press **W - S** then **Enter** to select the **above - below** answer.
+- For minigame, the prototype only have one which is slide puzzle game. To slide a puzzle, **left-click** on the piece next to the empty tile and that piece will switch its place with the empty tile. 
+
+![Dialogue Options](/assets/img/KA/KA-dialogue.png)
+_Triggering Dialogue_
+
+![Trivia quiz UI](/assets/img/KA/KA-triviaquiz.png)
+_Trivia Quiz Game_
+
+![Slide Puzzle Game](/assets/img/KA/KA-minigameB.png)
+_Slide Puzzle Game Entry_
+
+[**>> You can get the prototype from my Github by clicking here <<**](https://github.com/vntortoise724/Knowledge-Adventure)
+
+The link above send you to the repository which contains the built version of the prototype, once again, it is just a prototype so it is short and unfinished. And idk when I should reboot and complete it. 😭
+
+Below here is the Google Drive containing the GDD, Writing Script and some arts I have done for the game.
+
+[![Static Badge](https://img.shields.io/badge/Google_Drive-%234285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/drive/folders/1i-4St1xj6XKTR9Rh17z-t3HDOrW7_NBO?usp=sharing)
+
+> Most stuffs on the Drive are written in Vietnamese, so pretty sorry for some who couldn't read it. 😅 
+{: .prompt-warning}
+
+---
+
+#### Many Thanks - Xin Cảm Ơn -吀感恩
