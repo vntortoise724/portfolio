@@ -6,7 +6,7 @@ tags: [video games,unity]
 description: My First 3D Game on Unity
 ---
 
-## Introduction
+## Introduction 
 
 First 3D study project of my journey, it is a simple object dodging and catching game, it is made using Unity and C#. 
 
@@ -26,7 +26,7 @@ You can find this project on my [Github](https://github.com/vntortoise724/Unity3
 
 _# This is a prototype, therefore it doesn't have a build version._
 
-# How to play 🎮
+## How to play 🎮
 
 - **Basic Control:** Press A to move the 🍆 to the left and D to move to the right
 - **Mechanisms:** When being hit by 🔴 or unable to catch 🟨, you will lose HP. Therefore, you must catch the 🟨 and dodge the 🔴
