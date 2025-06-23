@@ -1,6 +1,6 @@
 ---
 title: Residual Soul - The Plan
-date: 2025-06-17 07:00 +700
+date: 2026-06-17 07:00 +700
 categories: [Game, Design]
 tags: [game design, game plan]
 description: The ideas for my adventure game, which I don't know the release date.

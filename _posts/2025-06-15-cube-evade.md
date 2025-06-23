@@ -4,6 +4,7 @@ date: 2025-06-15 12:30:00 +700
 categories: [Game, Showcase]
 tags: [video games,unity]
 description: My First 3D Game on Unity
+image: https://github.com/user-attachments/assets/8f05a214-9856-4571-8816-5cabff183c40
 ---
 
 ## Introduction 

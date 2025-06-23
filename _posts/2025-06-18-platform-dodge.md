@@ -3,7 +3,8 @@ title: Platform Dodger Game 🏃🔴
 date: 2025-06-18 12:00:00 +700
 categories: [Game, Showcase]
 tags: [video games,unity]
-description: My Second 3D game on Unity 
+description: My Second 3D game on Unity
+image: assets/img/game/PD-4th-phase.png
 ---
 
 ## Introduction 
