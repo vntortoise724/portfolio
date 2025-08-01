@@ -1,6 +1,6 @@
 ---
 title: Knowledge Adventure
-date: 2025-06-16 01:00:00 +700
+date: 2025-07-31 01:00:00 +700
 categories: [Game, Showcase]
 tags: [video games, game art, unity]
 description: Introduction for my education, adventure game made for my internship.
@@ -57,6 +57,21 @@ Below here is the Google Drive containing the GDD, Writing Script and some arts 
 
 > Most stuffs on the Drive are written in Vietnamese, so pretty sorry for some who couldn't read it. 😅 
 {: .prompt-warning}
+
+## Additional Showcase 🖌️:
+Below here are some showcase I want to show you about animation frames and character designs, most of them are not being used
+
+![Char Design](/assets/img/KA/KA-CharDesign.png)
+_The UI Dialogue Character Design_ 
+
+![Char Design Pixel](/assets/img/KA/KA-PModel_Character.png)
+_The Gameplay Character Design_
+
+![Idle Frame](/assets/img/KA/KA-Main-IdleFrame.png)
+_Main Character Idle Frames_
+
+![Walk Frame](/assets/img/KA/KA-Main-WalkFrame.png)
+_Main Character Walk Frames_
 
 ---
 

@@ -16,10 +16,11 @@ timezone: Asia/Ho_Chi_Minh
 
 title: Lê Đinh Chánh Quy # the main title
 
-tagline: IT Engineer, Amateur Artist # it will display as the subtitle
+tagline: # it will display as the subtitle
+  This portfolio page presents my works in both video game development and art. Don't ask me why I have two different careers, I just love both of them. I hope you enjoy my works and find them inspiring.
 
 description: >- # used by seo meta and the atom feed
-  This is the place where I showcase my works in IT and art.
+  This portfolio page presents my works in both video game development and art. Don't ask me why I have two different careers, I just love both of them. I hope you enjoy my works and find them inspiring.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -38,7 +39,7 @@ social:
   email: chanhquy01@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/formalityQ # change to your Twitter homepage
+    # - https://twitter.com/formalityQ # change to your Twitter homepage
     - https://github.com/vntortoise724 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -98,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/profile/GrabTheSkull_PP.png
+avatar: /assets/img/profile/PP-portrait.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

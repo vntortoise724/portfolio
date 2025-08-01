@@ -1,6 +1,6 @@
 ---
-title: My Artwork Showcase - Update 12/07
-date: 2025-07-12 00:00:00 +700 
+title: My Artwork Showcase - Update August 1st
+date: 2025-08-01 00:00:00 +700 
 categories: [Art, Showcase]
 tags: [digital art]
 description: The showcase of my recent artworks, this article will be kept update oftenly.
@@ -25,6 +25,12 @@ _The Veteran - Character Design_
 
 ![Character T Pose](/assets/img/gallery/ModelA.png)
 _Character T Posing_
+
+![Lady Figure](/assets/img/gallery/Lady_Figure.png)
+_Lady Figure Study_
+
+![Skeleton](/assets/img/gallery/Sketch-Skeleton.png)
+_A Sketch of a Laughing Skeleton_ 
 
 **Animation Showcase 🎞️**
 
